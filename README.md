@@ -1,0 +1,1 @@
+Small project of a simple video player.
